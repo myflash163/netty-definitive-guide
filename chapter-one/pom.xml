@@ -3,7 +3,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
          http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <artifactId>chapter-two</artifactId>
+    <artifactId>chapter-one</artifactId>
     <packaging>war</packaging>
     <parent>
         <groupId>mys.learn</groupId>
@@ -14,7 +14,7 @@
 
 
     <name>chapter-two</name>
-    <description>第二章</description>
+    <description>第一章</description>
 
 
     <build>

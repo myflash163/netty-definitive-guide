@@ -19,6 +19,7 @@
 
     <modules>
         <module>chapter-parent</module>
+        <module>chapter-one</module>
         <module>chapter-two</module>
     </modules>
 </project>
