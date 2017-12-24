@@ -3,7 +3,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
          http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <artifactId>chapter-one</artifactId>
+    <artifactId>chapter-three</artifactId>
     <packaging>jar</packaging>
     <parent>
         <groupId>mys.learn</groupId>
@@ -13,8 +13,19 @@
     </parent>
 
 
-    <name>chapter-two</name>
-    <description>第一章</description>
+    <name>chapter-three</name>
+    <description>第三章</description>
+
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/io.netty/netty-all -->
+        <dependency>
+            <groupId>io.netty</groupId>
+            <artifactId>netty-all</artifactId>
+            <version>5.0.0.Alpha1</version>
+        </dependency>
+
+
+    </dependencies>
 
 
     <build>
