@@ -14,7 +14,7 @@
 
 
     <name>chapter-six</name>
-    <description>第五章</description>
+    <description>第六章</description>
 
     <dependencies>
         <!-- https://mvnrepository.com/artifact/io.netty/netty-all -->

@@ -3,7 +3,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
          http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <artifactId>chapter-seven</artifactId>
+    <artifactId>chapter-eight</artifactId>
     <packaging>jar</packaging>
     <parent>
         <groupId>mys.learn</groupId>
@@ -13,8 +13,8 @@
     </parent>
 
 
-    <name>chapter-seven</name>
-    <description>第七章</description>
+    <name>chapter-eight</name>
+    <description>第八章</description>
 
     <dependencies>
         <!-- https://mvnrepository.com/artifact/io.netty/netty-all -->
@@ -23,22 +23,12 @@
             <artifactId>netty-all</artifactId>
             <version>5.0.0.Alpha1</version>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/org.msgpack/msgpack -->
+        <!-- https://mvnrepository.com/artifact/com.google.protobuf/protobuf-java -->
         <dependency>
-            <groupId>org.msgpack</groupId>
-            <artifactId>msgpack</artifactId>
-            <version>0.6.12</version>
+            <groupId>com.google.protobuf</groupId>
+            <artifactId>protobuf-java</artifactId>
+            <version>2.5.0</version>
         </dependency>
-
-        <!-- https://mvnrepository.com/artifact/org.javassist/javassist -->
-        <dependency>
-            <groupId>org.javassist</groupId>
-            <artifactId>javassist</artifactId>
-            <version>3.22.0-GA</version>
-        </dependency>
-
-
-
     </dependencies>
 
 
