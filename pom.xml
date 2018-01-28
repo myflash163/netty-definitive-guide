@@ -27,5 +27,7 @@
         <module>chapter-six</module>
         <module>chapter-seven</module>
         <module>chapter-eight</module>
+        <module>chapter-nine</module>
+        <module>chapter-ten</module>
     </modules>
 </project>
